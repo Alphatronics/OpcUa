@@ -5,6 +5,7 @@ The OpcUa library facilitates the interaction with OpcUA enabled devices manufac
 The library currently supports the following devices:
 
 * SmartOne barrier
+* SmartCover hatch
 
 It is advisable to work with the provided OpcUaClient interfaces in the library, thus allowing to create fake or simulated devices.
 
